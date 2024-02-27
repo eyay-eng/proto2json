@@ -1,2 +1,2 @@
 # proto2json
-Worker script
+Worker script to modify GTFS protobuf message to JSON
